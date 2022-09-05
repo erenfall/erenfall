@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&size=25&pause=2500&color=BB9330&center=true&vCenter=true&width=750&lines=Hello+my+name+is+Luis+Felipe+and+I'm+writing+my+pages+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&size=25&pause=2500&color=BB9330&center=true&vCenter=true&width=750&lines=Hello+my+name+is+Luis+Felipe+and+I+am+writing+my+lines+)](https://git.io/typing-svg)
